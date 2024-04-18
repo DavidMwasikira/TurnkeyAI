@@ -1,0 +1,7 @@
+# PostgreSQL
+# ------------------------------------------------------------------------------
+POSTGRES_HOST=postgres
+POSTGRES_PORT=5432
+POSTGRES_DB=industry_ai_agents
+POSTGRES_USER=GXgpiqSVAnAdemuVQSInjpWmPmgffuzs
+POSTGRES_PASSWORD=QTw5duX9ziOwpi1GdsE4qx3ZMw0Bp8YA2b3tBkdLy4RhFwkCRWDmB4ANqteEm5u8
